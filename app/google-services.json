@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752730751158",
+    "project_id": "chatwithfirebase-3467d",
+    "storage_bucket": "chatwithfirebase-3467d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752730751158:android:cd9736017ed8eacc7b6617",
+        "android_client_info": {
+          "package_name": "com.nxt.chatwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752730751158-45svicj7i79r8mh8ihpdt150t7u3e867.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGTckI2-mLL5Cv-CyS0tshtByyUII7Xp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752730751158-45svicj7i79r8mh8ihpdt150t7u3e867.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
